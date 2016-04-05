@@ -20,8 +20,8 @@ function loopStateful(loopNumber) {
 
 // usually invoked outside
 
-loopStateless(1);
-loopStateless(2);
+// loopStateless(1);
+// loopStateless(2);
 
-// loopStateful(1);
-// loopStateful(2);
+loopStateful(1);
+loopStateful(2);
